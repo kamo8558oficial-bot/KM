@@ -1,7 +1,7 @@
 ## ANGRY BIRD GAME SIMULATION
 A simple Angry Birds-style console game developed in C++ as a university project.  
 The game runs in the Windows console and includes basic physics, enemies, and multiple levels.
-# 🎯 Project Description
+# Project Description
 This project is a first-semester final project that simulates a basic Angry Birds game in the console environment.  
 The player shoots projectiles at enemies placed on walls and tries to eliminate them.
 # Features
